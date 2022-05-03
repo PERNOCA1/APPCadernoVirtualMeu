@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="APPCadernoVirtualMeu.MainPage">
+
+    <StackLayout>
+        <Button Text="PrimeiroAno" Clicked="Button_Clicked"/>
+        <Button Text="SegundoAno" Clicked="Button_Clicked_1"/>
+        <Button Text="TerceiroAno" Clicked="Button_Clicked_2"/>
+    </StackLayout>
+
+</ContentPage>
