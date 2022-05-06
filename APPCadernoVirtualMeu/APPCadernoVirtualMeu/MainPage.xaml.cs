@@ -20,17 +20,17 @@ namespace APPCadernoVirtualMeu
 
         private void Button_Clicked(object sender, EventArgs e)
         {
-            Navigation.PushAsync(new Portugues());
+            Navigation.PushAsync(new GeralPrimeiro());
         }
 
         private void Button_Clicked_1(object sender, EventArgs e)
         {
-            Navigation.PushAsync(new Matematica());
+            Navigation.PushAsync(new GeralSegundo());
         }
 
         private void Button_Clicked_2(object sender, EventArgs e)
         {
-            Navigation.PushAsync(new Geografia());
+            Navigation.PushAsync(new GeralTerceiro());
         }
     }
 }

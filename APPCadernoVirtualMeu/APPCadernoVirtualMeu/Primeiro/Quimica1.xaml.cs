@@ -10,13 +10,11 @@ using Xamarin.Forms.Xaml;
 namespace APPCadernoVirtualMeu.Primeiro
 {
     [XamlCompilation(XamlCompilationOptions.Compile)]
-    public partial class Portugues : ContentPage
+    public partial class Quimica1 : ContentPage
     {
-        public Portugues()
+        public Quimica1()
         {
             InitializeComponent();
         }
-
-       
     }
 }

@@ -10,9 +10,9 @@ using Xamarin.Forms.Xaml;
 namespace APPCadernoVirtualMeu.Primeiro
 {
     [XamlCompilation(XamlCompilationOptions.Compile)]
-    public partial class Biologia : ContentPage
+    public partial class AnaliseProjetoSistemas : ContentPage
     {
-        public Biologia()
+        public AnaliseProjetoSistemas()
         {
             InitializeComponent();
         }
