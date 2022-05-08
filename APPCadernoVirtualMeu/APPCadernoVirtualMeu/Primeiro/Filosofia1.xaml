@@ -4,9 +4,9 @@
              x:Class="APPCadernoVirtualMeu.Primeiro.Filosofia1">
     <ContentPage.Content>
         <StackLayout>
-            <Label Text="Welcome to Xamarin.Forms!"
-                VerticalOptions="CenterAndExpand" 
+            <Label Text="Tales de Mileto: tudo surge da água"
                 HorizontalOptions="CenterAndExpand" />
+            <Label Text="Tales de Mileto é um filósofo pré-socrático que nasceu na cidade de Mileto, na Grécia Antiga, provavelmente em 624 a.C. e morreu em 546 a.C. Ele é consideradona filosofia como o primeiro filósofo, em virtude do fato de ter sido o primeiroa responder a questão sobre a origem de tudo de maneira filosófica."/>
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>

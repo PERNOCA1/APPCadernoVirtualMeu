@@ -4,9 +4,30 @@
              x:Class="APPCadernoVirtualMeu.Terceiro.GeralTerceiro">
     <ContentPage.Content>
         <StackLayout>
-            <Label Text="Welcome to Xamarin.Forms!"
-                VerticalOptions="CenterAndExpand" 
-                HorizontalOptions="CenterAndExpand" />
+            
+            <Button Text="Bilogia" Clicked="Button_Clicked"
+                    VerticalOptions="CenterAndExpand"
+                HorizontalOptions="Center"/>
+            <Button Text="Educação Física" Clicked="Button_Clicked_1"
+                    HorizontalOptions="End"/>
+            <Button Text="Filosofia" Clicked="Button_Clicked_2"
+                    HorizontalOptions="Start"/>
+            <Button Text="Física" Clicked="Button_Clicked_3"/>
+            <Button Text="Geografia" Clicked="Button_Clicked_4"/>
+            <Button Text="História" Clicked="Button_Clicked_5"/>
+            <Button Text="Inglês" Clicked="Button_Clicked_6"/>
+            <Button Text="Quimica" Clicked="Button_Clicked_14"/>
+            <Button Text="Sociologia" Clicked="Button_Clicked_15"/>
+            <Button Text="Matematica" Clicked="Button_Clicked_8"/>
+            <Button Text="Português" Clicked="Button_Clicked_9"/>
+            <Label Text="Matérias Tecnicas" TextColor="AliceBlue"
+                   HorizontalOptions="Center"/>
+            <Button Text="Internet" Clicked="Button_Clicked_7"/>
+            <Button Text="Programação Mobile" Clicked="Button_Clicked_10"/>
+            <Button Text="Programação WEB" Clicked="Button_Clicked_11"/>
+            <Button Text="PTCC" Clicked="Button_Clicked_12"/>
+            <Button Text="Qualidade e Teste de Software" Clicked="Button_Clicked_13"/>
+           
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>

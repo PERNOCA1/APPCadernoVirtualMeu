@@ -84,22 +84,22 @@ namespace APPCadernoVirtualMeu.Primeiro
 
         private void Button_Clicked_13(object sender, EventArgs e)
         {
-            Navigation.PushAsync(new Matematica1());
+            Navigation.PushAsync(new Portugues1());
         }
 
         private void Button_Clicked_14(object sender, EventArgs e)
         {
-            Navigation.PushAsync(new Portugues1());
+            Navigation.PushAsync(new ProgramacaoAlgoritmo());
         }
 
         private void Button_Clicked_15(object sender, EventArgs e)
         {
-            Navigation.PushAsync(new ProgramacaoAlgoritmo());
+            Navigation.PushAsync(new ProgWebI());
         }
 
         private void Button_Clicked_16(object sender, EventArgs e)
         {
-            Navigation.PushAsync(new ProgWebI());
+            Navigation.PushAsync(new Quimica1());
         }
     }
 }
