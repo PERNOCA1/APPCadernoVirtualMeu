@@ -3,6 +3,7 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="APPCadernoVirtualMeu.Primeiro.GeralPrimeiro">
     <ContentPage.Content>
+        <ScrollView>
         <StackLayout>
             <Button Text="Artes" Clicked="Button_Clicked"/>
             <Button Text="AnaliseProjSistem" Clicked='Button_Clicked_1'/>
@@ -18,11 +19,12 @@
             <Button Text="Lingua Estrangeira" Clicked="Button_Clicked_11"/>
             <Button Text="Matematica" Clicked="Button_Clicked_12"/>
             <Button Text="Português" Clicked="Button_Clicked_13"/>
-            <Label Text="Matérias Tecnicas" TextColor="AliceBlue"
+            <Label Text="Matérias Tecnicas" TextColor="Black"
                    HorizontalOptions="Center"/>
             <Button Text="Programção de algotimo" Clicked="Button_Clicked_14"/>
             <Button Text="Programação Web I" Clicked="Button_Clicked_15"/>
             <Button Text="Quimica" Clicked="Button_Clicked_16"/>
         </StackLayout>
+        </ScrollView>
     </ContentPage.Content>
 </ContentPage>
