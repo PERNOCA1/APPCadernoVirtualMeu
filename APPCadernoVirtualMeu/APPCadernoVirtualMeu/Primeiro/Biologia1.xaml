@@ -4,9 +4,14 @@
              x:Class="APPCadernoVirtualMeu.Primeiro.Biologia1">
     <ContentPage.Content>
         <StackLayout>
-            <Label Text="Welcome to Xamarin.Forms!"
-                VerticalOptions="CenterAndExpand" 
-                HorizontalOptions="CenterAndExpand" />
+            <Label Text="Estrutura Celular Eucarionte" FontSize="Medium" />
+            <Label Text="Células eucariontes possuem um núcleo definido, 
+delimitado pelo envelope nuclear. 
+Células apresentam membrana plasmática, 
+citoplasma e material genético, o qual pode estar 
+ou não no núcleo. A membrana plasmática da célula 
+é responsável por controlar o que entra e o que sai, 
+funcionando como uma barreira seletiva."/>
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>

@@ -4,7 +4,7 @@
              x:Class="APPCadernoVirtualMeu.Terceiro.Portugues3">
     <ContentPage.Content>
         <StackLayout>
-            <Label Text="Welcome to Xamarin.Forms!"
+            <Label Text="Ambiguidades"
                 VerticalOptions="CenterAndExpand" 
                 HorizontalOptions="CenterAndExpand" />
         </StackLayout>

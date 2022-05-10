@@ -4,7 +4,7 @@
              x:Class="APPCadernoVirtualMeu.Terceiro.Sociologia3">
     <ContentPage.Content>
         <StackLayout>
-            <Label Text="Welcome to Xamarin.Forms!"
+            <Label Text="Fato Social"
                 VerticalOptions="CenterAndExpand" 
                 HorizontalOptions="CenterAndExpand" />
         </StackLayout>

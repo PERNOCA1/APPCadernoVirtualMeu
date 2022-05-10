@@ -4,7 +4,7 @@
              x:Class="APPCadernoVirtualMeu.Segundo.Matematica2">
     <ContentPage.Content>
         <StackLayout>
-            <Label Text="Welcome to Xamarin.Forms!"
+            <Label Text="Álgebra"
                 VerticalOptions="CenterAndExpand" 
                 HorizontalOptions="CenterAndExpand" />
         </StackLayout>

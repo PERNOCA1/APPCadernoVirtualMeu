@@ -3,6 +3,11 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="APPCadernoVirtualMeu.App">
     <Application.Resources>
+        <!-- esta declarando que a parte das notificações fique com
+        a cor definida-->
+        <Style TargetType="NavigationPage">
+            <Setter Property="BarBackgroundColor" Value="Black" />
+        </Style>
 
     </Application.Resources>
 </Application>

@@ -4,9 +4,14 @@
              x:Class="APPCadernoVirtualMeu.Primeiro.Matematica1">
     <ContentPage.Content>
         <StackLayout>
-            <Label Text="Welcome to Xamarin.Forms!"
+            <Label Text="GEOMETRIA"
                 VerticalOptions="CenterAndExpand" 
                 HorizontalOptions="CenterAndExpand" />
+            <Label Text="A geometria é uma área da matemática 
+que estuda as formas geométricas desde comprimento, área e volume. 
+O vocábulo geometria corresponde a união dos termos geo (terra) 
+e metron (medir), ou seja, a medida de terra. A Geometria é 
+dividida em três categorias: Geometria Analítica."/>
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>

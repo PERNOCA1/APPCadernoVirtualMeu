@@ -4,7 +4,7 @@
              x:Class="APPCadernoVirtualMeu.Terceiro.Geografia3">
     <ContentPage.Content>
         <StackLayout>
-            <Label Text="Welcome to Xamarin.Forms!"
+            <Label Text="materiais cartográficos"
                 VerticalOptions="CenterAndExpand" 
                 HorizontalOptions="CenterAndExpand" />
         </StackLayout>

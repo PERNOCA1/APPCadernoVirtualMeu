@@ -4,9 +4,13 @@
              x:Class="APPCadernoVirtualMeu.Primeiro.ProgWebI">
     <ContentPage.Content>
         <StackLayout>
-            <Label Text="Welcome to Xamarin.Forms!"
+            <Label Text="WEB"
                 VerticalOptions="CenterAndExpand" 
                 HorizontalOptions="CenterAndExpand" />
+            <Label Text="Um desenvolvedor web cria sites usando 
+diversas linguagens de programação. As suas responsabilidades incluem 
+projetar os layouts desses sites e desenvolver funcionalidades para 
+atender às necessidades dos usuários."/>
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>

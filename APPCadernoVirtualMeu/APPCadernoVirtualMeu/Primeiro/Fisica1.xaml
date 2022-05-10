@@ -4,9 +4,12 @@
              x:Class="APPCadernoVirtualMeu.Primeiro.Fisica1">
     <ContentPage.Content>
         <StackLayout>
-            <Label Text="Welcome to Xamarin.Forms!"
-                VerticalOptions="CenterAndExpand" 
-                HorizontalOptions="CenterAndExpand" />
+            <Label Text="Mecânica"  FontSize="Medium"/>
+            <Label Text="Mecânica é uma grande área da física que 
+se concentra no estudo do movimento e repouso dos corpos, estejam 
+estes ou não sob a ação de forças. A mecânica divide-se nas áreas de 
+cinemática, dinâmica e estática. Praticamente todos os movimentos que
+acontecem em nosso cotidiano podem ser descritos pelas equações dessa área."/>
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>

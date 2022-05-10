@@ -4,9 +4,14 @@
              x:Class="APPCadernoVirtualMeu.Primeiro.ProgramacaoAlgoritmo">
     <ContentPage.Content>
         <StackLayout>
-            <Label Text="Welcome to Xamarin.Forms!"
+            <Label Text="Algoritmo"
                 VerticalOptions="CenterAndExpand" 
                 HorizontalOptions="CenterAndExpand" />
+            <Label Text="Algoritmo. As linguagens de programação 
+tratam os dados de um computador através do uso de algoritmos. Um 
+algoritmo é uma estruturação passo-a-passo de como um determinado 
+problema deve ser resolvido de forma não-ambígua (ou como muitos 
+comparam uma receita de bolo) ."/>
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>

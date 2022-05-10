@@ -10,6 +10,8 @@ namespace APPCadernoVirtualMeu
         {
             InitializeComponent();
 
+           /** vai receber um navigationpage e o mainpage vai ser
+            a pagina inicial*/
             MainPage = new NavigationPage(new MainPage());
         }
 

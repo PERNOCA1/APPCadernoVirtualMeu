@@ -4,7 +4,7 @@
              x:Class="APPCadernoVirtualMeu.Segundo.Geografia2">
     <ContentPage.Content>
         <StackLayout>
-            <Label Text="Welcome to Xamarin.Forms!"
+            <Label Text="Reino monera"
                 VerticalOptions="CenterAndExpand" 
                 HorizontalOptions="CenterAndExpand" />
         </StackLayout>

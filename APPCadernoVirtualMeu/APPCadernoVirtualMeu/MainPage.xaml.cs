@@ -17,9 +17,9 @@ namespace APPCadernoVirtualMeu
         {
             InitializeComponent();
         }
-
+        /** esse método é para ter a troca de telas e ter a ação do clice */
         private void Button_Clicked(object sender, EventArgs e)
-        {
+        {   
             Navigation.PushAsync(new GeralPrimeiro());
         }
 

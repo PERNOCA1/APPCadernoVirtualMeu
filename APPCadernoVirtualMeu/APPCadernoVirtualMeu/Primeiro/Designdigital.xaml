@@ -4,9 +4,8 @@
              x:Class="APPCadernoVirtualMeu.Primeiro.Designdigital">
     <ContentPage.Content>
         <StackLayout>
-            <Label Text="Welcome to Xamarin.Forms!"
-                VerticalOptions="CenterAndExpand" 
-                HorizontalOptions="CenterAndExpand" />
+            <Label Text="GIF" FontSize="Medium"/>
+            <Label Text="Aprendendo no desktop" />
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>

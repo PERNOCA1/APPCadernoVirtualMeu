@@ -4,9 +4,14 @@
              x:Class="APPCadernoVirtualMeu.Primeiro.Quimica1">
     <ContentPage.Content>
         <StackLayout>
-            <Label Text="Welcome to Xamarin.Forms!"
+            <Label Text="Matéria"
                 VerticalOptions="CenterAndExpand" 
                 HorizontalOptions="CenterAndExpand" />
+            <Label Text="Matéria é tudo aquilo que tem massa e volume.
+É composta por moléculas e átomos unidos e ordenados de diferentes formas, 
+o que garante diferentes propriedades específicas. Também há as 
+propriedades gerais, que são aquelas que se aplicam a todo tipo de 
+matéria. Matéria e energia são conceitos complementares."/>
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>

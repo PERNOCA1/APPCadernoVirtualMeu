@@ -4,9 +4,13 @@
              x:Class="APPCadernoVirtualMeu.Primeiro.Historia1">
     <ContentPage.Content>
         <StackLayout>
-            <Label Text="Welcome to Xamarin.Forms!"
+            <Label Text="Pré-História"
                 VerticalOptions="CenterAndExpand" 
                 HorizontalOptions="CenterAndExpand" />
+            <Label Text="A pré-história corresponde ao período 
+da história que antecede a invenção da escrita, desde o começo dos 
+tempos históricos registrados até aproximadamente em 3 500 a.C.. É estudada
+pela antropologia, arqueologia e paleontologia."/>
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>

@@ -1,12 +1,20 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             x:Class="APPCadernoVirtualMeu.MainPage">
-
+             x:Class="APPCadernoVirtualMeu.MainPage"
+             Title="Caderno Virtual">
+    <!-- ScrollView serve pra vc conseguir rolar a tela caso tenha
+    muitas informações/botões.-->
+    <ScrollView>
+    
+    <!-- StackLayout é a estrutura da tela do app -->
     <StackLayout>
+        <!-- button é um botão onde tera uma escrita(Text)
+        e uma ação de clicar/selecionar (Clicked)-->
         <Button Text="PrimeiroAno" Clicked="Button_Clicked"/>
         <Button Text="SegundoAno" Clicked="Button_Clicked_1"/>
         <Button Text="TerceiroAno" Clicked="Button_Clicked_2"/>
     </StackLayout>
+    </ScrollView>
 
 </ContentPage>

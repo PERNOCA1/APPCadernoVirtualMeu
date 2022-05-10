@@ -4,7 +4,7 @@
              x:Class="APPCadernoVirtualMeu.Terceiro.Quimica3">
     <ContentPage.Content>
         <StackLayout>
-            <Label Text="Welcome to Xamarin.Forms!"
+            <Label Text="Funções Orgânicas"
                 VerticalOptions="CenterAndExpand" 
                 HorizontalOptions="CenterAndExpand" />
         </StackLayout>

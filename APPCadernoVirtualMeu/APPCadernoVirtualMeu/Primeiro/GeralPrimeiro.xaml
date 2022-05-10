@@ -1,30 +1,32 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             x:Class="APPCadernoVirtualMeu.Primeiro.GeralPrimeiro">
+             x:Class="APPCadernoVirtualMeu.Primeiro.GeralPrimeiro"
+             Title="Aventura"
+             BackgroundColor="CadetBlue">
     <ContentPage.Content>
         <ScrollView>
         <StackLayout>
-            <Button Text="Artes" Clicked="Button_Clicked"/>
-            <Button Text="AnaliseProjSistem" Clicked='Button_Clicked_1'/>
-            <Button Text="Banco de Dados I" Clicked="Button_Clicked_2"/>
-            <Button Text="Biologia" Clicked='Button_Clicked_3'/>
-            <Button Text="Design Digital" Clicked="Button_Clicked_4"/>
-            <Button Text="Ed Fisica" Clicked="Button_Clicked_5"/>
+                <Button Text="Artes" Clicked="Button_Clicked"/>
+                <Button Text="Biologia" Clicked='Button_Clicked_3'/>
+                <Button Text="Quimica" Clicked="Button_Clicked_16"/>
+                <Button Text="Ed Fisica" Clicked="Button_Clicked_5"/>
             <Button Text="Filosofia" Clicked="Button_Clicked_6"/>
-            <Button Text="Fisica" Clicked="Button_Clicked_7"/>
-            <Button Text="Fundamentos Informatica" Clicked="Button_Clicked_8"/>
-            <Button Text="Geografia" Clicked="Button_Clicked_9"/>
+                <Button Text="Fisica" Clicked="Button_Clicked_7"/>
+                <Button Text="Geografia" Clicked="Button_Clicked_9"/>
             <Button Text="História" Clicked="Button_Clicked_10"/>
             <Button Text="Lingua Estrangeira" Clicked="Button_Clicked_11"/>
             <Button Text="Matematica" Clicked="Button_Clicked_12"/>
             <Button Text="Português" Clicked="Button_Clicked_13"/>
             <Label Text="Matérias Tecnicas" TextColor="Black"
                    HorizontalOptions="Center"/>
-            <Button Text="Programção de algotimo" Clicked="Button_Clicked_14"/>
+                <Button Text="Design Digital" Clicked="Button_Clicked_4"/>
+                <Button Text="Banco de Dados I" Clicked="Button_Clicked_2"/>
+                <Button Text="Programção de algotimo" Clicked="Button_Clicked_14"/>
             <Button Text="Programação Web I" Clicked="Button_Clicked_15"/>
-            <Button Text="Quimica" Clicked="Button_Clicked_16"/>
-        </StackLayout>
+                <Button Text="Fundamentos Informatica" Clicked="Button_Clicked_8"/>
+                <Button Text="AnaliseProjSistem" Clicked='Button_Clicked_1'/>
+            </StackLayout>
         </ScrollView>
     </ContentPage.Content>
 </ContentPage>

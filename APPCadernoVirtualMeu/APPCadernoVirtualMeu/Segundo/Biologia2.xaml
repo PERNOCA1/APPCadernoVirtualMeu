@@ -4,9 +4,14 @@
              x:Class="APPCadernoVirtualMeu.Segundo.Biologia2">
     <ContentPage.Content>
         <StackLayout>
-            <Label Text="Welcome to Xamarin.Forms!"
+            <Label Text="Taxonomia"
                 VerticalOptions="CenterAndExpand" 
                 HorizontalOptions="CenterAndExpand" />
+            <Label Text="A taxonomia é a área da biologia 
+responsável por identificar, nomear e classificar os seres vivos. 
+A sistemática é uma área que também auxilia nesse processo, já que 
+estuda as relações evolutivas entre os organismos, sendo cada vez 
+mais utilizada nesse processo, assim como a biologia molecular."/>
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>

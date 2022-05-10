@@ -4,9 +4,8 @@
              x:Class="APPCadernoVirtualMeu.Primeiro.BDI">
     <ContentPage.Content>
         <StackLayout>
-            <Label Text="Welcome to Xamarin.Forms!"
-                VerticalOptions="CenterAndExpand" 
-                HorizontalOptions="CenterAndExpand" />
+            <Label Text="Banco de dados" FontSize="Medium"/>
+            <Label Text="Aprendendo no papel"/>
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>

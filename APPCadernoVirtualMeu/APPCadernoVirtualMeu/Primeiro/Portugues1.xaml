@@ -4,9 +4,10 @@
              x:Class="APPCadernoVirtualMeu.Primeiro.Portugues1">
     <ContentPage.Content>
         <StackLayout>
-            <Label Text="Welcome to Xamarin.Forms!"
+            <Label Text="Compreensão de textos diversos"
                 VerticalOptions="CenterAndExpand" 
                 HorizontalOptions="CenterAndExpand" />
+            <Label Text="Textos verbais e não-verbais"/>
 
         </StackLayout>
     </ContentPage.Content>

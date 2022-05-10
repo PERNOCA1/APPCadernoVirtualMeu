@@ -4,9 +4,14 @@
              x:Class="APPCadernoVirtualMeu.Primeiro.LinguaEstrangeira1">
     <ContentPage.Content>
         <StackLayout>
-            <Label Text="Welcome to Xamarin.Forms!"
+            <Label Text="Verbos: be / have /do"
                 VerticalOptions="CenterAndExpand" 
                 HorizontalOptions="CenterAndExpand" />
+            <Label Text="Porém, o pretérito dos verbos to do e to 
+have, did e had, são as mesmas com todos os pronomes, enquanto que 
+o verbo to be é conjugado como was com os pronomes I /I, he/ela, 
+she/ela e it/isso, e como were com os pronomes you/você ou vocês, 
+we/nós e they/eles ou elas."/>
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>

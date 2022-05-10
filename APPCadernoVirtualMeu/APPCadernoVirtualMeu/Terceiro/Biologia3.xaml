@@ -4,7 +4,7 @@
              x:Class="APPCadernoVirtualMeu.Terceiro.Biologia3">
     <ContentPage.Content>
         <StackLayout>
-            <Label Text="Welcome to Xamarin.Forms!"
+            <Label Text="Biotecnologia e bioética"
                 VerticalOptions="CenterAndExpand" 
                 HorizontalOptions="CenterAndExpand" />
         </StackLayout>

@@ -4,9 +4,10 @@
              x:Class="APPCadernoVirtualMeu.Primeiro.Geografia1">
     <ContentPage.Content>
         <StackLayout>
-            <Label Text="Welcome to Xamarin.Forms!"
+            <Label Text="Conceitos básicos de hidrografia"
                 VerticalOptions="CenterAndExpand" 
-                HorizontalOptions="CenterAndExpand" />
+                HorizontalOptions="CenterAndExpand"  FontSize="Medium"/>
+            <Label Text="águas superficiais e subterrâneas"/>
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>

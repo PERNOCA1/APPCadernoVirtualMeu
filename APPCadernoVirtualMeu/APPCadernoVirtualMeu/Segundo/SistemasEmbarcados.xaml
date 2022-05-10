@@ -4,7 +4,7 @@
              x:Class="APPCadernoVirtualMeu.Segundo.SistemasEmbarcados">
     <ContentPage.Content>
         <StackLayout>
-            <Label Text="Welcome to Xamarin.Forms!"
+            <Label Text="Sistemas Embarcados"
                 VerticalOptions="CenterAndExpand" 
                 HorizontalOptions="CenterAndExpand" />
         </StackLayout>

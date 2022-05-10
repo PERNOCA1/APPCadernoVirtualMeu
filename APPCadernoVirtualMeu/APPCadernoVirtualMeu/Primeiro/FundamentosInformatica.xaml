@@ -4,9 +4,14 @@
              x:Class="APPCadernoVirtualMeu.Primeiro.FundamentosInformatica">
     <ContentPage.Content>
         <StackLayout>
-            <Label Text="Welcome to Xamarin.Forms!"
+            <Label Text="Informatica" FontSize="Medium"
                 VerticalOptions="CenterAndExpand" 
                 HorizontalOptions="CenterAndExpand" />
+            <Label Text="Informática é uma área de informação digital, 
+que inclui os processos de recolha, armazenamento, processamento, 
+transferência e difusão de dados. O termo é a reunião das palavras 
+informação e automática, por isso, pode ser resumido como a informação 
+tratada por meios automáticos."/>
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>

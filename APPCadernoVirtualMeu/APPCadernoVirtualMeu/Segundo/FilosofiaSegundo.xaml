@@ -4,7 +4,7 @@
              x:Class="APPCadernoVirtualMeu.Segundo.FilosofiaSegundo">
     <ContentPage.Content>
         <StackLayout>
-            <Label Text="Welcome to Xamarin.Forms!"
+            <Label Text="Teoria do Conhecimento"
                 VerticalOptions="CenterAndExpand" 
                 HorizontalOptions="CenterAndExpand" />
         </StackLayout>

@@ -4,9 +4,12 @@
              x:Class="APPCadernoVirtualMeu.Primeiro.Artes1">
     <ContentPage.Content>
         <StackLayout>
-            <Label Text="Welcome to Xamarin.Forms!"
-                VerticalOptions="CenterAndExpand" 
-                HorizontalOptions="CenterAndExpand" />
+            <Label Text="MÚSICA DO ANTIGO EGITO" FontSize="Medium" />
+            <Label Text="Música foi criada por meio do deus
+Thoth (deus da escrita e sabedoria).
+criou os hieroglifos e ele mesmo
+representava todos os conhecimentos
+do Egito."/>
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>
