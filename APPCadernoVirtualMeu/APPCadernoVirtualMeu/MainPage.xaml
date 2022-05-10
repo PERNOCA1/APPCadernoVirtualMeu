@@ -12,9 +12,9 @@
                
         <!-- button é um botão onde tera uma escrita(Text)
         e uma ação de clicar/selecionar (Clicked)-->
-        <Button Text="PrimeiroAno" Clicked="Button_Clicked"/>
-        <Button Text="SegundoAno" Clicked="Button_Clicked_1"/>
-        <Button Text="TerceiroAno" Clicked="Button_Clicked_2"/>
+        <Button Text="1° ANO" Clicked="Button_Clicked"/>
+        <Button Text="2° ANO" Clicked="Button_Clicked_1"/>
+        <Button Text="3° ANO" Clicked="Button_Clicked_2"/>
     </StackLayout>
     </ScrollView>
 
