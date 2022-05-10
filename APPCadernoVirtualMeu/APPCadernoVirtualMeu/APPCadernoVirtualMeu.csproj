@@ -11,16 +11,19 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="Imagem\**" />
     <Compile Remove="Img\**" />
-    <Compile Remove="NovaPasta1\**" />
+    <Compile Remove="NovaPasta\**" />
     <Compile Remove="Primeiro\NovaPasta1\**" />
     <Compile Remove="Primeiro\NovaPasta\**" />
+    <EmbeddedResource Remove="Imagem\**" />
     <EmbeddedResource Remove="Img\**" />
-    <EmbeddedResource Remove="NovaPasta1\**" />
+    <EmbeddedResource Remove="NovaPasta\**" />
     <EmbeddedResource Remove="Primeiro\NovaPasta1\**" />
     <EmbeddedResource Remove="Primeiro\NovaPasta\**" />
+    <None Remove="Imagem\**" />
     <None Remove="Img\**" />
-    <None Remove="NovaPasta1\**" />
+    <None Remove="NovaPasta\**" />
     <None Remove="Primeiro\NovaPasta1\**" />
     <None Remove="Primeiro\NovaPasta\**" />
   </ItemGroup>

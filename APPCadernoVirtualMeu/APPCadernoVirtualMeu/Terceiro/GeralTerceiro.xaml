@@ -4,6 +4,7 @@
              x:Class="APPCadernoVirtualMeu.Terceiro.GeralTerceiro"
               BackgroundColor="CadetBlue">
     <ContentPage.Content>
+        <ScrollView>
         <StackLayout>
             
             <Button Text="Bilogia" Clicked="Button_Clicked"/>
@@ -26,5 +27,6 @@
             <Button Text="Qualidade e Teste de Software" Clicked="Button_Clicked_13"/>
            
         </StackLayout>
+        </ScrollView>
     </ContentPage.Content>
 </ContentPage>

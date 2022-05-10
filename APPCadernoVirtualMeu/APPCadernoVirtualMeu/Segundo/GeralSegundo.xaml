@@ -4,6 +4,7 @@
              x:Class="APPCadernoVirtualMeu.Segundo.GeralSegundo"
               BackgroundColor="CadetBlue">
     <ContentPage.Content>
+        <ScrollView>
         <StackLayout>
             
             <Button Text="Quimica" Clicked="Button_Clicked_13"/>
@@ -26,5 +27,6 @@
             <Button Text="Sistemas Embarcados" Clicked="Button_Clicked_14"/>
             
         </StackLayout>
+        </ScrollView>
     </ContentPage.Content>
 </ContentPage>
